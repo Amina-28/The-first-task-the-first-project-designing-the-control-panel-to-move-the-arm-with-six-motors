@@ -1,0 +1,1 @@
+# The-first-task-the-first-project-designing-the-control-panel-to-move-the-arm-with-six-motors
