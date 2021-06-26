@@ -8,7 +8,7 @@
     <meta charset="UTF-8">
 
 
-    <title>Document</title>
+    <title>The first task: moving the robot arm</title>
 
     <link rel="stylesheet" href="STYLE.css">   
 
